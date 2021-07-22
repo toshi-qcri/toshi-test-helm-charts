@@ -38,9 +38,9 @@ entries:
     version: 0.0.0
   torproxy:
   - apiVersion: v1
-    created: "2021-07-22T15:51:40.898437805Z"
+    created: "2021-07-22T16:09:54.195459632Z"
     description: The Helm chart for tor proxy
-    digest: fcb56e2311c59e4a5d19193b78cd45060e0e8d41737daa8febfa704d47b5d0d8
+    digest: 8b1d420add9e7dd789df74726f4d38f9f8785be87ef42e6d1bbde8ec2f5b325e
     name: torproxy
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/torproxy-0.0.0.tgz
@@ -63,4 +63,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-07-22T15:51:40.897857201Z"
+generated: "2021-07-22T16:09:54.19493224Z"
