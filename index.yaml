@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   bitcointalk-crawler:
   - apiVersion: v1
-    created: "2021-07-26T07:37:51.737533904Z"
+    created: "2021-07-26T08:01:55.600924819Z"
     description: The Helm chart for the Bitcointslk crawler
-    digest: af0a82e3d8778ccdf162bce12a123e832c929ecee1eb27d879ccb090bbd296cc
+    digest: 97e04fe45e59e046fd388a2a8433c7df047a6775da1c734ba8098eef4192a5fe
     name: bitcointalk-crawler
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/bitcointalk-crawler-0.0.0.tgz
@@ -81,4 +81,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-07-26T07:37:51.737162401Z"
+generated: "2021-07-26T08:01:55.600518898Z"
