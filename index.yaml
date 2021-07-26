@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   bitcoinabuse-crawler:
   - apiVersion: v1
-    created: "2021-07-26T11:23:55.393916221Z"
+    created: "2021-07-26T11:39:55.702802297Z"
     description: The Helm chart for the Bitcoinabuse crawler
-    digest: 5cd175829263fbf364a26984e85c24a60a8b01dea608433d5e37656c8118e0c7
+    digest: 66733f46d1a4ddd7cd394093e6c495f2ccda0636bd1b4387290ac78c5e28e4c0
     name: bitcoinabuse-crawler
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/bitcoinabuse-crawler-0.0.0.tgz
@@ -90,4 +90,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-07-26T11:23:55.393591217Z"
+generated: "2021-07-26T11:39:55.696284963Z"
