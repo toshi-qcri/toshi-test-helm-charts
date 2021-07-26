@@ -29,9 +29,9 @@ entries:
     version: 0.0.0
   darkweb-healthcheck:
   - apiVersion: v1
-    created: "2021-06-20T02:27:01.888880207Z"
+    created: "2021-07-26T19:30:30.076694398Z"
     description: The Helm chart for the Darkweb healthcheck
-    digest: bf22133f0c0b93066c98e8c56a91f4008a7def3942c5b824f8f06df180400899
+    digest: 4d4b128300e811ef6e8ff28782f673e84701f9c735bb18c9c112788aa16cac3d
     name: darkweb-healthcheck
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/darkweb-healthcheck-0.0.0.tgz
@@ -90,4 +90,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-07-26T11:39:55.696284963Z"
+generated: "2021-07-26T19:30:30.076191492Z"
